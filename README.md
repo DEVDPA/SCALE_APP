@@ -1,0 +1,97 @@
+POLÍTICA DE PRIVACIDADE
+Sistema de Apontamento - Balança Industrial
+Última atualização: 28 de agosto de 2025
+
+1. INFORMAÇÕES GERAIS
+Esta Política de Privacidade descreve como o aplicativo Sistema de Apontamento - Balança Industrial ("nós", "nosso" ou "aplicativo") coleta, usa e protege suas informações quando você utiliza nosso serviço.
+
+Desenvolvedor: @geanoliveira99
+Contato: geansnswatch@gmail.com
+Tipo de Aplicativo: Sistema empresarial para controle de balança industrial
+2. DADOS COLETADOS
+2.1 Dados de Autenticação
+Credenciais de login: Usuário e senha para acesso ao sistema Sankhya
+Tokens de sessão: Para manter você logado com segurança
+2.2 Dados de Configuração
+Configurações de servidor: Endereço IP e porta do servidor configurados pelo usuário
+Preferências do aplicativo: Configurações salvas localmente no dispositivo
+2.3 Dados Operacionais
+Dados da balança: Medições e apontamentos realizados
+Logs de atividade: Registros de uso para funcionamento do sistema
+3. COMO USAMOS SEUS DADOS
+3.1 Finalidades
+Autenticação: Verificar sua identidade no sistema Sankhya
+Funcionamento: Permitir o uso das funcionalidades do aplicativo
+Sincronização: Comunicação com o servidor da empresa
+Melhoria: Aprimorar a experiência de uso
+3.2 Base Legal
+Execução de contrato de trabalho
+Interesse legítimo para funcionamento do sistema empresarial
+4. ARMAZENAMENTO E SEGURANÇA
+4.1 Armazenamento Local
+Credenciais: Armazenadas localmente no dispositivo com criptografia
+Configurações: Salvas no armazenamento local do aplicativo
+Cache temporário: Dados temporários para melhor performance
+4.2 Medidas de Segurança
+Comunicação criptografada (HTTPS/WSS)
+Armazenamento seguro de credenciais
+Autenticação obrigatória para acesso
+Logout automático por inatividade
+4.3 Retenção de Dados
+Credenciais: Mantidas até o logout manual
+Configurações: Mantidas até exclusão pelo usuário
+Dados operacionais: Conforme política da empresa
+5. COMPARTILHAMENTO DE DADOS
+5.1 Não Compartilhamos
+Não vendemos dados pessoais a terceiros
+Não utilizamos dados para publicidade
+Não realizamos marketing direto
+5.2 Compartilhamento Necessário
+Sistema Sankhya: Para autenticação e funcionamento
+Servidor da empresa: Para sincronização de dados
+Autoridades: Quando exigido por lei
+6. SEUS DIREITOS
+Você tem o direito de:
+
+Acessar seus dados armazenados
+Corrigir informações incorretas
+Excluir suas credenciais (fazer logout)
+Limitar o processamento
+Portabilidade dos dados (quando aplicável)
+6.1 Como Exercer seus Direitos
+No aplicativo: Use as configurações para gerenciar dados
+Contato direto: Entre em contato através do e-mail fornecido
+Exclusão: Use a função logout para remover credenciais
+7. DADOS DE MENORES
+Este aplicativo é destinado exclusivamente para uso empresarial por funcionários maiores de 18 anos. Não coletamos intencionalmente dados de menores de idade.
+
+8. ALTERAÇÕES NA POLÍTICA
+Podemos atualizar esta Política de Privacidade periodicamente. Quando fizermos alterações significativas, notificaremos através de:
+
+Atualização da data neste documento
+Notificação no aplicativo
+Comunicação pela empresa
+9. TECNOLOGIAS UTILIZADAS
+9.1 Armazenamento Local
+localStorage: Para configurações e credenciais
+Cache do aplicativo: Para melhor performance
+9.2 Comunicação
+Socket.IO: Para comunicação em tempo real
+HTTPS: Para segurança nas conexões
+APIs RESTful: Para integração com sistemas
+10. CONFORMIDADE LEGAL
+10.1 LGPD (Brasil)
+Este aplicativo está em conformidade com a Lei Geral de Proteção de Dados (LGPD - Lei 13.709/2018).
+
+10.2 Outras Jurisdições
+Para usuários de outras jurisdições, aplicamos padrões de proteção equivalentes às melhores práticas internacionais.
+
+11. CONTATO
+E-mail: geansnswatch@gmail.com
+Telefone: 68 98110-8001
+Endereço: Rua São Salvador, PREVENTÓRIO N°77
+Encarregado de Dados (DPO): space.gtasadreamer.com
+12. CONSENTIMENTO
+Ao usar este aplicativo, você concorda com os termos desta Política de Privacidade e com o processamento de seus dados conforme descrito.
+
+Esta política foi criada para garantir transparência e proteção aos seus dados pessoais, em conformidade com as leis de proteção de dados aplicáveis.
